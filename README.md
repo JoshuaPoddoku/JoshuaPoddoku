@@ -11,13 +11,13 @@
 
 - 👯 I’m looking to collaborate on [Easy Resume Builder](https://github.com/JoshuaPoddoku/Resume-Builder)
 
-- 🤝 I’m looking for help with [Color Palette Generator](https://joshuapoddoku.github.io/color-palette/)
+- 🤝 I’m looking for help with [Awesome LinkedIn Profiles](https://github.com/JoshuaPoddoku/awesome-linkedin-profiles)
 
 - 👨‍💻 All of my projects are available at [joshuapoddoku.github.io](joshuapoddoku.github.io)
 
 - 📝 I regulary write articles on [https://joshuapod.medium.com/](https://joshuapod.medium.com/)
 
-- 💬 Ask me about **React, Design Perspective, Mentoring**
+- 💬 Ask me about **Frontend, React, Design Perspective, Community Building and Mentoring**
 
 - 📫 How to reach me **joshuapoddoku@gmail.com**
 
