@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **React, Responsive Design, HTML/CSS**
 
-- 👯 I’m looking to collaborate on [Easy Resume Builder](https://github.com/JoshuaPoddoku/Resume-Builder)
+- 👯 I’m looking to collaborate on [Idea Lab](https://github.com/theupweb/idea-lab/)
 
 - 🤝 I’m looking for help with [Awesome LinkedIn Profiles](https://github.com/JoshuaPoddoku/awesome-linkedin-profiles)
 
