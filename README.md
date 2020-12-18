@@ -19,6 +19,8 @@
 
 - 💬 Ask me about **Frontend, React, Design Perspective, Community Building and Mentoring**
 
+- <a href="https://joshuapoddoku.github.io/tup-lab-newsletter/"><img src="https://img.shields.io/badge/Receive newsletter-Subscribe-red?style=for-the-badge" /></a>
+
 - 📫 How to reach me **joshuapoddoku@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1VwU_y7AQ8FmVLMDZ8NGQrjzdiAc4Ynip/view?usp=sharing](https://drive.google.com/file/d/1VwU_y7AQ8FmVLMDZ8NGQrjzdiAc4Ynip/view?usp=sharing)
