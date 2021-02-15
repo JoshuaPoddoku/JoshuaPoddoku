@@ -19,7 +19,8 @@
 
 - 💬 Ask me about **Frontend, React, Design Perspective, Community Building and Mentoring**
 
-<a href="https://joshuapoddoku.github.io/tup-lab-newsletter/"><img src="https://img.shields.io/badge/Receive newsletter-Subscribe-red?style=for-the-badge" /></a>
+<a href="https://joshuapoddoku.github.io/tup-lab-newsletter/"><img src="https://img.shields.io/badge/Receive newsletter-Subscribe-blue?style=for-the-badge" /></a>
+<a href="https://www.patreon.com/joshuapod"><img src="https://img.shields.io/badge/Patreon-SPONSOR-red?style=for-the-badge&logo=patreon" /></a>
 
 - 📫 How to reach me **joshuapoddoku@gmail.com**
 
