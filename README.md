@@ -24,11 +24,10 @@
 
 - 📫 How to reach me **joshuapoddoku@gmail.com**
 
+- **Schedule** a Free session with me [Click here](https://calendly.com/joshuapoddoku) 
+
 - 📄 Know about my experiences [https://drive.google.com/file/d/1VwU_y7AQ8FmVLMDZ8NGQrjzdiAc4Ynip/view?usp=sharing](https://drive.google.com/file/d/1VwU_y7AQ8FmVLMDZ8NGQrjzdiAc4Ynip/view?usp=sharing)
 
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
