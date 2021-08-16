@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Joshua Poddoku</h1>
-<h3 align="center">Currently SDE Intern at <a href="https://ornatesolar.com/">Ornate Solar</a> Looking forward to Mentor and Build Communities.</h3>
+<h3 align="center">Content creator [@Aviyel](https://aviyel.com), Tech Evangelist, Writer and Frontend Dev</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=joshuapoddoku&label=Profile%20views&color=0e75b6&style=flat" alt="joshuapoddoku" /> </p>
 
