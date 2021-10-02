@@ -44,3 +44,6 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=joshuapoddoku&show_icons=true&locale=en&layout=compact" alt="joshuapoddoku" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=joshuapoddoku&show_icons=true&locale=en" alt="joshuapoddoku" /></p>
+
+<h2>Hey, watch a snake eating my Github Contributions!!</h2>
+<img src="https://github.com/kr-anurag/JoshuaPoddoku/blob/output/github-contribution-grid-snake.gif" />
