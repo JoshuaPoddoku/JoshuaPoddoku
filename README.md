@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Joshua Poddoku</h1>
-<h3 align="center">Content creator <a href="https://aviyel.com" target="_blank">@Aviyel</a>, Tech Evangelist, Writer and Frontend Dev</h3>
+<h3 align="center">Dev Rel & Operations <a href="https://aviyel.com" target="_blank">@Aviyel</a>, Tech Evangelist, Writer and Frontend Dev</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=joshuapoddoku&label=Profile%20views&color=0e75b6&style=flat" alt="joshuapoddoku" /> </p>
 
@@ -26,8 +26,6 @@
 
 - **Schedule** a Free session with me [Click here](https://calendly.com/joshuapoddoku) 
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1VwU_y7AQ8FmVLMDZ8NGQrjzdiAc4Ynip/view?usp=sharing](https://drive.google.com/file/d/1VwU_y7AQ8FmVLMDZ8NGQrjzdiAc4Ynip/view?usp=sharing)
-
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -45,5 +43,5 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=joshuapoddoku&show_icons=true&locale=en" alt="joshuapoddoku" /></p>
 
-<h2>Hey, watch a snake eating my Github Contributions!!</h2>
+
 <img src="https://github.com/kr-anurag/JoshuaPoddoku/blob/output/github-contribution-grid-snake.gif" />
