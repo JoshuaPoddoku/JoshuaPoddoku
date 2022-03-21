@@ -1,9 +1,8 @@
 <h1 align="center">Hi 👋, I'm Joshua Poddoku</h1>
-<h3 align="center">DevRel<a href="https://aviyel.com" target="_blank">@Aviyel</a>, Tech Evangelist, Writer and Frontend Dev</h3>
+<h3 align="center">Developer Relations<a href="https://aviyel.com" target="_blank"> @Aviyel</a> and Open Source Evangelist</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=joshuapoddoku&label=Profile%20views&color=0e75b6&style=flat" alt="joshuapoddoku" /> </p>
 
-<p align="left"> <a href="https://twitter.com/joshuapoddoku" target="blank"><img src="https://img.shields.io/twitter/follow/joshuapoddoku?logo=twitter&style=for-the-badge" alt="joshuapoddoku" /></a> </p>
 
 - 🔭 I’m currently working on [TupLab](https://github.com/JoshuaPoddoku/tuplab)
 
@@ -12,8 +11,6 @@
 - 👯 I’m looking to collaborate on [Idea Lab](https://github.com/theupweb/idea-lab/)
 
 - 🤝 I’m looking for help with [Awesome LinkedIn Profiles](https://github.com/JoshuaPoddoku/awesome-linkedin-profiles)
-
-- 👨‍💻 All of my projects are available at [joshuapoddoku.github.io](joshuapoddoku.github.io)
 
 - 📝 I regulary write articles on [https://joshuapod.medium.com/](https://joshuapod.medium.com/)
 
@@ -43,5 +40,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=joshuapoddoku&show_icons=true&locale=en" alt="joshuapoddoku" /></p>
 
+### :zap: Recent Activity
 
-<img src="https://github.com/kr-anurag/JoshuaPoddoku/blob/output/github-contribution-grid-snake.gif" />
+<!--START_SECTION:activity-->
+
