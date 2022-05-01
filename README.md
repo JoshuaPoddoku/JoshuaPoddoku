@@ -1,27 +1,25 @@
-<h1 align="center">Hi 👋, I'm Joshua Poddoku</h1>
-<h3 align="center">Developer Relations<a href="https://aviyel.com" target="_blank"> @Aviyel</a> and Open Source Evangelist</h3>
+<h1 align="left">Hey there👋 I'm Joshua Poddoku</h1>
+<h3 align="left">Developer Relations<a href="https://aviyel.com" target="_blank"> @Aviyel</a> and Open Source Advocate</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=joshuapoddoku&label=Profile%20views&color=0e75b6&style=flat" alt="joshuapoddoku" /> </p>
 
+# Recent Highlights :zap:
 
-- 🔭 I’m currently working on [TupLab](https://github.com/JoshuaPoddoku/tuplab)
+- [Usage Metrics and Managing Community Health](https://www.youtube.com/watch?v=9-F_2GslGiE) with Avi Press
+- [Open Source Redefined Cal.com](https://www.youtube.com/watch?v=HQ9jYOFfCg0) with Peer Richelsen
+- [Podcast and AMA with Maintainer of BoxyHQ](https://www.youtube.com/watch?v=SCCBjOSLsK0), Deepak 
+- [How to attarct more contributors](https://www.youtube.com/watch?v=j-DjYOt6gOs) by Rizel Scarlett
 
-- 🌱 I’m currently learning **React, Responsive Design, HTML/CSS**
+# Open Source
 
-- 👯 I’m looking to collaborate on [Idea Lab](https://github.com/theupweb/idea-lab/)
+- 🌱 Member of [SustainOSS](https://discourse.sustainoss.org/u/joshuapoddoku/summary)
 
-- 🤝 I’m looking for help with [Awesome LinkedIn Profiles](https://github.com/JoshuaPoddoku/awesome-linkedin-profiles)
+- 📝 Updating my life on [Polywork](https://joshuapod.com/)
+ 
+- 💬 Open to collaborate on **Podcasts, Live Streaming, Speaking in Events**
 
-- 📝 I regulary write articles on [https://joshuapod.medium.com/](https://joshuapod.medium.com/)
 
-- 💬 Ask me about **Frontend, React, Design Perspective, Community Building and Mentoring**
-
-<a href="https://joshuapoddoku.github.io/tup-lab-newsletter/"><img src="https://img.shields.io/badge/Receive newsletter-Subscribe-blue?style=for-the-badge" /></a>
-<a href="https://www.patreon.com/joshuapod"><img src="https://img.shields.io/badge/Patreon-SPONSOR-red?style=for-the-badge&logo=patreon" /></a>
-
-- 📫 How to reach me **joshuapoddoku@gmail.com**
-
-- **Schedule** a Free session with me [Click here](https://calendly.com/joshuapoddoku) 
+- 📫 How to reach me **hello@joshuapod.com**
 
 
 <h3 align="left">Connect with me:</h3>
