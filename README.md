@@ -3,33 +3,31 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=joshuapoddoku&label=Profile%20views&color=0e75b6&style=flat" alt="joshuapoddoku" /> </p>
 
-# Recent Highlights :zap:
+## Recent Highlights :zap:
 
 - [Usage Metrics and Managing Community Health](https://www.youtube.com/watch?v=9-F_2GslGiE) with Avi Press
 - [Open Source Redefined Cal.com](https://www.youtube.com/watch?v=HQ9jYOFfCg0) with Peer Richelsen
 - [Podcast and AMA with Maintainer of BoxyHQ](https://www.youtube.com/watch?v=SCCBjOSLsK0), Deepak 
 - [How to attarct more contributors](https://www.youtube.com/watch?v=j-DjYOt6gOs) by Rizel Scarlett
 
-# Open Source
+## Journey with Open Source
 
 - 🌱 Member of [SustainOSS](https://discourse.sustainoss.org/u/joshuapoddoku/summary)
 
-- 📝 Updating my life on [Polywork](https://joshuapod.com/)
+- 📝 Updating my life on [![Polywork](https://img.shields.io/badge/--polywork?label=Polywork&logo=Polywork&style=social)](https://www.polywork.com/joshuapod)
  
 - 💬 Open to collaborate on **Podcasts, Live Streaming, Speaking in Events**
 
+### 📫 How to reach me:
 
-- 📫 How to reach me **hello@joshuapod.com**
+[![Follow on Twitter](https://img.shields.io/badge/--twitter?label=Twitter&logo=Twitter&style=social)](https://twitter.com/JoshuaPoddoku)  [![Polywork](https://img.shields.io/badge/--polywork?label=Polywork&logo=Polywork&style=social)](https://www.polywork.com/joshuapod) [![Connect on LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://www.linkedin.com/in/joshuapod)
 
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/joshuapoddoku" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="joshuapoddoku" height="30" width="40" /></a>
 <a href="https://dev.to/joshuapoddoku" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="joshuapoddoku" height="30" width="40" /></a>
-<a href="https://twitter.com/joshuapoddoku" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="joshuapoddoku" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/joshua-poddoku" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="joshua-poddoku" height="30" width="40" /></a>
 <a href="https://codesandbox.com/joshuapoddoku" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codesandbox.svg" alt="joshuapoddoku" height="30" width="40" /></a>
-<a href="https://instagram.com/joshuapoddoku" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="joshuapoddoku" height="30" width="40" /></a>
+<a href="https://instagram.com/the_wittymentor" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="joshuapoddoku" height="30" width="40" /></a>
 <a href="https://medium.com/@joshuapod" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@joshuapod" height="30" width="40" /></a>
 </p>
 
