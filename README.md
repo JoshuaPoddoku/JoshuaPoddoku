@@ -39,4 +39,15 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
+1. 💪 Opened PR [#55](https://github.com/devrelcollective/awesome-devrel/pull/55) in [devrelcollective/awesome-devrel](https://github.com/devrelcollective/awesome-devrel)
+2. ❗️ Opened issue [#54](https://github.com/devrelcollective/awesome-devrel/issues/54) in [devrelcollective/awesome-devrel](https://github.com/devrelcollective/awesome-devrel)
+3. 🗣 Commented on [#31](https://github.com/aviyelverse/aviyel-first-pr/issues/31) in [aviyelverse/aviyel-first-pr](https://github.com/aviyelverse/aviyel-first-pr)
+4. 🗣 Commented on [#6223](https://github.com/obsproject/obs-studio/issues/6223) in [obsproject/obs-studio](https://github.com/obsproject/obs-studio)
+5. ❗️ Opened issue [#55](https://github.com/moby/mobywebsite/issues/55) in [moby/mobywebsite](https://github.com/moby/mobywebsite)
+6. 🗣 Commented on [#6223](https://github.com/obsproject/obs-studio/issues/6223) in [obsproject/obs-studio](https://github.com/obsproject/obs-studio)
+7. ❗️ Opened issue [#6223](https://github.com/obsproject/obs-studio/issues/6223) in [obsproject/obs-studio](https://github.com/obsproject/obs-studio)
+8. 🎉 Merged PR [#27](https://github.com/aviyelverse/aviyel-first-pr/pull/27) in [aviyelverse/aviyel-first-pr](https://github.com/aviyelverse/aviyel-first-pr)
+9. 🎉 Merged PR [#24](https://github.com/aviyelverse/aviyel-first-pr/pull/24) in [aviyelverse/aviyel-first-pr](https://github.com/aviyelverse/aviyel-first-pr)
+10. ❗️ Closed issue [#28](https://github.com/aviyelverse/aviyel-first-pr/issues/28) in [aviyelverse/aviyel-first-pr](https://github.com/aviyelverse/aviyel-first-pr)
+<!--END_SECTION:activity-->
 
