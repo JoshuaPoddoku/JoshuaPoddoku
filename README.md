@@ -3,12 +3,12 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=joshuapoddoku&label=Profile%20views&color=0e75b6&style=flat" alt="joshuapoddoku" /> </p>
 
-## Recent Highlights :zap:
+## :zap: Recent Highlights
 
 - [Usage Metrics and Managing Community Health](https://www.youtube.com/watch?v=9-F_2GslGiE) with Avi Press
 - [Open Source Redefined Cal.com](https://www.youtube.com/watch?v=HQ9jYOFfCg0) with Peer Richelsen
 - [Podcast and AMA with Maintainer of BoxyHQ](https://www.youtube.com/watch?v=SCCBjOSLsK0), Deepak 
-- [How to attarct more contributors](https://www.youtube.com/watch?v=j-DjYOt6gOs) by Rizel Scarlett
+- [How to attract more contributors](https://www.youtube.com/watch?v=j-DjYOt6gOs) by Rizel Scarlett
 
 ## Journey with Open Source
 
