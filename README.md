@@ -39,15 +39,15 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#68](https://github.com/slicknode/slicknode/issues/68) in [slicknode/slicknode](https://github.com/slicknode/slicknode)
-2. ❗️ Opened issue [#68](https://github.com/slicknode/slicknode/issues/68) in [slicknode/slicknode](https://github.com/slicknode/slicknode)
-3. ❗️ Opened issue [#1](https://github.com/tosthorg/feedback/issues/1) in [tosthorg/feedback](https://github.com/tosthorg/feedback)
-4. 💪 Opened PR [#55](https://github.com/devrelcollective/awesome-devrel/pull/55) in [devrelcollective/awesome-devrel](https://github.com/devrelcollective/awesome-devrel)
-5. ❗️ Opened issue [#54](https://github.com/devrelcollective/awesome-devrel/issues/54) in [devrelcollective/awesome-devrel](https://github.com/devrelcollective/awesome-devrel)
-6. 🗣 Commented on [#31](https://github.com/aviyelverse/aviyel-first-pr/issues/31) in [aviyelverse/aviyel-first-pr](https://github.com/aviyelverse/aviyel-first-pr)
-7. 🗣 Commented on [#6223](https://github.com/obsproject/obs-studio/issues/6223) in [obsproject/obs-studio](https://github.com/obsproject/obs-studio)
-8. ❗️ Opened issue [#55](https://github.com/moby/mobywebsite/issues/55) in [moby/mobywebsite](https://github.com/moby/mobywebsite)
-9. 🗣 Commented on [#6223](https://github.com/obsproject/obs-studio/issues/6223) in [obsproject/obs-studio](https://github.com/obsproject/obs-studio)
-10. ❗️ Opened issue [#6223](https://github.com/obsproject/obs-studio/issues/6223) in [obsproject/obs-studio](https://github.com/obsproject/obs-studio)
+1. 🎉 Merged PR [#1](https://github.com/tosthorg/.github/pull/1) in [tosthorg/.github](https://github.com/tosthorg/.github)
+2. 🗣 Commented on [#68](https://github.com/slicknode/slicknode/issues/68) in [slicknode/slicknode](https://github.com/slicknode/slicknode)
+3. ❗️ Opened issue [#68](https://github.com/slicknode/slicknode/issues/68) in [slicknode/slicknode](https://github.com/slicknode/slicknode)
+4. ❗️ Opened issue [#1](https://github.com/tosthorg/feedback/issues/1) in [tosthorg/feedback](https://github.com/tosthorg/feedback)
+5. 💪 Opened PR [#55](https://github.com/devrelcollective/awesome-devrel/pull/55) in [devrelcollective/awesome-devrel](https://github.com/devrelcollective/awesome-devrel)
+6. ❗️ Opened issue [#54](https://github.com/devrelcollective/awesome-devrel/issues/54) in [devrelcollective/awesome-devrel](https://github.com/devrelcollective/awesome-devrel)
+7. 🗣 Commented on [#31](https://github.com/aviyelverse/aviyel-first-pr/issues/31) in [aviyelverse/aviyel-first-pr](https://github.com/aviyelverse/aviyel-first-pr)
+8. 🗣 Commented on [#6223](https://github.com/obsproject/obs-studio/issues/6223) in [obsproject/obs-studio](https://github.com/obsproject/obs-studio)
+9. ❗️ Opened issue [#55](https://github.com/moby/mobywebsite/issues/55) in [moby/mobywebsite](https://github.com/moby/mobywebsite)
+10. 🗣 Commented on [#6223](https://github.com/obsproject/obs-studio/issues/6223) in [obsproject/obs-studio](https://github.com/obsproject/obs-studio)
 <!--END_SECTION:activity-->
 
