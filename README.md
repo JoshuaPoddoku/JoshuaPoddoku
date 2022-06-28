@@ -1,5 +1,5 @@
 <h1 align="left">Hey there👋 I'm Joshua Poddoku</h1>
-<h3 align="left">Developer Relations<a href="https://aviyel.com" target="_blank"> @Aviyel</a> and Open Source Advocate</h3>
+<h3 align="left">DevRel and Open source Evangelist</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=joshuapoddoku&label=Profile%20views&color=0e75b6&style=flat" alt="joshuapoddoku" /> </p>
 
