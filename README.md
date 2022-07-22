@@ -39,15 +39,15 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#2](https://github.com/JoshuaPoddoku/open-sauced-goals/issues/2) in [JoshuaPoddoku/open-sauced-goals](https://github.com/JoshuaPoddoku/open-sauced-goals)
-2. ❗️ Opened issue [#1](https://github.com/JoshuaPoddoku/open-sauced-goals/issues/1) in [JoshuaPoddoku/open-sauced-goals](https://github.com/JoshuaPoddoku/open-sauced-goals)
-3. 💪 Opened PR [#99](https://github.com/apache/incubator-devlake-website/pull/99) in [apache/incubator-devlake-website](https://github.com/apache/incubator-devlake-website)
-4. ❗️ Opened issue [#98](https://github.com/apache/incubator-devlake-website/issues/98) in [apache/incubator-devlake-website](https://github.com/apache/incubator-devlake-website)
-5. 💪 Opened PR [#97](https://github.com/apache/incubator-devlake-website/pull/97) in [apache/incubator-devlake-website](https://github.com/apache/incubator-devlake-website)
-6. ❗️ Opened issue [#96](https://github.com/apache/incubator-devlake-website/issues/96) in [apache/incubator-devlake-website](https://github.com/apache/incubator-devlake-website)
-7. 🎉 Merged PR [#1](https://github.com/tosthorg/.github/pull/1) in [tosthorg/.github](https://github.com/tosthorg/.github)
-8. 🗣 Commented on [#68](https://github.com/slicknode/slicknode/issues/68) in [slicknode/slicknode](https://github.com/slicknode/slicknode)
-9. ❗️ Opened issue [#68](https://github.com/slicknode/slicknode/issues/68) in [slicknode/slicknode](https://github.com/slicknode/slicknode)
-10. ❗️ Opened issue [#1](https://github.com/tosthorg/feedback/issues/1) in [tosthorg/feedback](https://github.com/tosthorg/feedback)
+1. 🗣 Commented on [#1](https://github.com/merico-dev/jde-program/issues/1) in [merico-dev/jde-program](https://github.com/merico-dev/jde-program)
+2. ❗️ Opened issue [#2](https://github.com/JoshuaPoddoku/open-sauced-goals/issues/2) in [JoshuaPoddoku/open-sauced-goals](https://github.com/JoshuaPoddoku/open-sauced-goals)
+3. ❗️ Opened issue [#1](https://github.com/JoshuaPoddoku/open-sauced-goals/issues/1) in [JoshuaPoddoku/open-sauced-goals](https://github.com/JoshuaPoddoku/open-sauced-goals)
+4. 💪 Opened PR [#99](https://github.com/apache/incubator-devlake-website/pull/99) in [apache/incubator-devlake-website](https://github.com/apache/incubator-devlake-website)
+5. ❗️ Opened issue [#98](https://github.com/apache/incubator-devlake-website/issues/98) in [apache/incubator-devlake-website](https://github.com/apache/incubator-devlake-website)
+6. 💪 Opened PR [#97](https://github.com/apache/incubator-devlake-website/pull/97) in [apache/incubator-devlake-website](https://github.com/apache/incubator-devlake-website)
+7. ❗️ Opened issue [#96](https://github.com/apache/incubator-devlake-website/issues/96) in [apache/incubator-devlake-website](https://github.com/apache/incubator-devlake-website)
+8. 🎉 Merged PR [#1](https://github.com/tosthorg/.github/pull/1) in [tosthorg/.github](https://github.com/tosthorg/.github)
+9. 🗣 Commented on [#68](https://github.com/slicknode/slicknode/issues/68) in [slicknode/slicknode](https://github.com/slicknode/slicknode)
+10. ❗️ Opened issue [#68](https://github.com/slicknode/slicknode/issues/68) in [slicknode/slicknode](https://github.com/slicknode/slicknode)
 <!--END_SECTION:activity-->
 
