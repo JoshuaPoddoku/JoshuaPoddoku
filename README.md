@@ -39,15 +39,15 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#3](https://github.com/merico-dev/jde-program/issues/3) in [merico-dev/jde-program](https://github.com/merico-dev/jde-program)
-2. 🗣 Commented on [#2](https://github.com/merico-dev/jde-program/issues/2) in [merico-dev/jde-program](https://github.com/merico-dev/jde-program)
-3. 🗣 Commented on [#1](https://github.com/merico-dev/jde-program/issues/1) in [merico-dev/jde-program](https://github.com/merico-dev/jde-program)
-4. ❗️ Opened issue [#2](https://github.com/JoshuaPoddoku/open-sauced-goals/issues/2) in [JoshuaPoddoku/open-sauced-goals](https://github.com/JoshuaPoddoku/open-sauced-goals)
-5. ❗️ Opened issue [#1](https://github.com/JoshuaPoddoku/open-sauced-goals/issues/1) in [JoshuaPoddoku/open-sauced-goals](https://github.com/JoshuaPoddoku/open-sauced-goals)
-6. 💪 Opened PR [#99](https://github.com/apache/incubator-devlake-website/pull/99) in [apache/incubator-devlake-website](https://github.com/apache/incubator-devlake-website)
-7. ❗️ Opened issue [#98](https://github.com/apache/incubator-devlake-website/issues/98) in [apache/incubator-devlake-website](https://github.com/apache/incubator-devlake-website)
-8. 💪 Opened PR [#97](https://github.com/apache/incubator-devlake-website/pull/97) in [apache/incubator-devlake-website](https://github.com/apache/incubator-devlake-website)
-9. ❗️ Opened issue [#96](https://github.com/apache/incubator-devlake-website/issues/96) in [apache/incubator-devlake-website](https://github.com/apache/incubator-devlake-website)
-10. 🎉 Merged PR [#1](https://github.com/tosthorg/.github/pull/1) in [tosthorg/.github](https://github.com/tosthorg/.github)
+1. 🗣 Commented on [#2](https://github.com/merico-dev/jde-program/issues/2) in [merico-dev/jde-program](https://github.com/merico-dev/jde-program)
+2. 🎉 Merged PR [#4](https://github.com/merico-dev/jde-program/pull/4) in [merico-dev/jde-program](https://github.com/merico-dev/jde-program)
+3. 🗣 Commented on [#4](https://github.com/merico-dev/jde-program/issues/4) in [merico-dev/jde-program](https://github.com/merico-dev/jde-program)
+4. 🗣 Commented on [#3](https://github.com/merico-dev/jde-program/issues/3) in [merico-dev/jde-program](https://github.com/merico-dev/jde-program)
+5. 🗣 Commented on [#2](https://github.com/merico-dev/jde-program/issues/2) in [merico-dev/jde-program](https://github.com/merico-dev/jde-program)
+6. 🗣 Commented on [#1](https://github.com/merico-dev/jde-program/issues/1) in [merico-dev/jde-program](https://github.com/merico-dev/jde-program)
+7. ❗️ Opened issue [#2](https://github.com/JoshuaPoddoku/open-sauced-goals/issues/2) in [JoshuaPoddoku/open-sauced-goals](https://github.com/JoshuaPoddoku/open-sauced-goals)
+8. ❗️ Opened issue [#1](https://github.com/JoshuaPoddoku/open-sauced-goals/issues/1) in [JoshuaPoddoku/open-sauced-goals](https://github.com/JoshuaPoddoku/open-sauced-goals)
+9. 💪 Opened PR [#99](https://github.com/apache/incubator-devlake-website/pull/99) in [apache/incubator-devlake-website](https://github.com/apache/incubator-devlake-website)
+10. ❗️ Opened issue [#98](https://github.com/apache/incubator-devlake-website/issues/98) in [apache/incubator-devlake-website](https://github.com/apache/incubator-devlake-website)
 <!--END_SECTION:activity-->
 
