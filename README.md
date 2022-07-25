@@ -39,15 +39,15 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#13](https://github.com/merico-dev/jde-program/issues/13) in [merico-dev/jde-program](https://github.com/merico-dev/jde-program)
-2. 🗣 Commented on [#12](https://github.com/merico-dev/jde-program/issues/12) in [merico-dev/jde-program](https://github.com/merico-dev/jde-program)
-3. 🎉 Merged PR [#12](https://github.com/merico-dev/jde-program/pull/12) in [merico-dev/jde-program](https://github.com/merico-dev/jde-program)
-4. 🗣 Commented on [#12](https://github.com/merico-dev/jde-program/issues/12) in [merico-dev/jde-program](https://github.com/merico-dev/jde-program)
-5. 🗣 Commented on [#11](https://github.com/merico-dev/jde-program/issues/11) in [merico-dev/jde-program](https://github.com/merico-dev/jde-program)
-6. 🗣 Commented on [#6](https://github.com/merico-dev/jde-program/issues/6) in [merico-dev/jde-program](https://github.com/merico-dev/jde-program)
-7. 🗣 Commented on [#10](https://github.com/merico-dev/jde-program/issues/10) in [merico-dev/jde-program](https://github.com/merico-dev/jde-program)
-8. 🗣 Commented on [#8](https://github.com/merico-dev/jde-program/issues/8) in [merico-dev/jde-program](https://github.com/merico-dev/jde-program)
-9. 🗣 Commented on [#5](https://github.com/merico-dev/jde-program/issues/5) in [merico-dev/jde-program](https://github.com/merico-dev/jde-program)
-10. 🗣 Commented on [#11](https://github.com/merico-dev/jde-program/issues/11) in [merico-dev/jde-program](https://github.com/merico-dev/jde-program)
+1. 🗣 Commented on [#12](https://github.com/merico-dev/jde-program/issues/12) in [merico-dev/jde-program](https://github.com/merico-dev/jde-program)
+2. ❗️ Opened issue [#13](https://github.com/merico-dev/jde-program/issues/13) in [merico-dev/jde-program](https://github.com/merico-dev/jde-program)
+3. 🗣 Commented on [#12](https://github.com/merico-dev/jde-program/issues/12) in [merico-dev/jde-program](https://github.com/merico-dev/jde-program)
+4. 🎉 Merged PR [#12](https://github.com/merico-dev/jde-program/pull/12) in [merico-dev/jde-program](https://github.com/merico-dev/jde-program)
+5. 🗣 Commented on [#12](https://github.com/merico-dev/jde-program/issues/12) in [merico-dev/jde-program](https://github.com/merico-dev/jde-program)
+6. 🗣 Commented on [#11](https://github.com/merico-dev/jde-program/issues/11) in [merico-dev/jde-program](https://github.com/merico-dev/jde-program)
+7. 🗣 Commented on [#6](https://github.com/merico-dev/jde-program/issues/6) in [merico-dev/jde-program](https://github.com/merico-dev/jde-program)
+8. 🗣 Commented on [#10](https://github.com/merico-dev/jde-program/issues/10) in [merico-dev/jde-program](https://github.com/merico-dev/jde-program)
+9. 🗣 Commented on [#8](https://github.com/merico-dev/jde-program/issues/8) in [merico-dev/jde-program](https://github.com/merico-dev/jde-program)
+10. 🗣 Commented on [#5](https://github.com/merico-dev/jde-program/issues/5) in [merico-dev/jde-program](https://github.com/merico-dev/jde-program)
 <!--END_SECTION:activity-->
 
