@@ -54,4 +54,6 @@ Joshua is a Developer Evangelist at Merico where he leads open-source programs. 
 <!--END_SECTION:activity-->
 
 ## Events and Travel Calendar
+<img width="1440" alt="Screenshot 2022-08-30 at 2 36 07 AM" src="https://user-images.githubusercontent.com/31725457/187299035-79305247-dda2-4264-b352-17154d498cba.png">
+
 [View my Calendar](https://calendar.google.com/calendar/embed?src=kn998onh29klft2csbbuh4qun0%40group.calendar.google.com&ctz=Asia%2FKolkata "@embed")
