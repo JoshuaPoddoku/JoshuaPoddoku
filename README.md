@@ -38,7 +38,7 @@ Joshua is a Developer Evangelist at Merico where he leads open-source programs. 
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=joshuapoddoku&show_icons=true&locale=en" alt="joshuapoddoku" /></p>
 
-### :zap: Recent Activity
+## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#23](https://github.com/merico-dev/jde-program/issues/23) in [merico-dev/jde-program](https://github.com/merico-dev/jde-program)
@@ -53,3 +53,5 @@ Joshua is a Developer Evangelist at Merico where he leads open-source programs. 
 10. 🗣 Commented on [#2743](https://github.com/apache/incubator-devlake/issues/2743) in [apache/incubator-devlake](https://github.com/apache/incubator-devlake)
 <!--END_SECTION:activity-->
 
+## Events and Travel Calendar
+[View my Calendar](https://youtu.be/8bh238ekw3 "@embed")
