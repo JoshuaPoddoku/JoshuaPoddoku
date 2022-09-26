@@ -41,16 +41,16 @@ Joshua is a Developer Evangelist at Merico where he leads open-source programs. 
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#2](https://github.com/JoshuaPoddoku/global-cfps/issues/2) in [JoshuaPoddoku/global-cfps](https://github.com/JoshuaPoddoku/global-cfps)
-2. ❗️ Opened issue [#1](https://github.com/JoshuaPoddoku/global-cfps/issues/1) in [JoshuaPoddoku/global-cfps](https://github.com/JoshuaPoddoku/global-cfps)
-3. 🗣 Commented on [#213](https://github.com/apache/incubator-devlake-website/issues/213) in [apache/incubator-devlake-website](https://github.com/apache/incubator-devlake-website)
-4. ❗️ Closed issue [#200](https://github.com/apache/incubator-devlake-website/issues/200) in [apache/incubator-devlake-website](https://github.com/apache/incubator-devlake-website)
-5. ❗️ Opened issue [#200](https://github.com/apache/incubator-devlake-website/issues/200) in [apache/incubator-devlake-website](https://github.com/apache/incubator-devlake-website)
-6. 🗣 Commented on [#23](https://github.com/merico-dev/jde-program/issues/23) in [merico-dev/jde-program](https://github.com/merico-dev/jde-program)
-7. ❗️ Opened issue [#23](https://github.com/merico-dev/jde-program/issues/23) in [merico-dev/jde-program](https://github.com/merico-dev/jde-program)
-8. 🗣 Commented on [#3](https://github.com/merico-dev/jde-program/issues/3) in [merico-dev/jde-program](https://github.com/merico-dev/jde-program)
-9. 🎉 Merged PR [#22](https://github.com/merico-dev/jde-program/pull/22) in [merico-dev/jde-program](https://github.com/merico-dev/jde-program)
-10. 🎉 Merged PR [#19](https://github.com/merico-dev/jde-program/pull/19) in [merico-dev/jde-program](https://github.com/merico-dev/jde-program)
+1. ❗️ Opened issue [#3](https://github.com/JoshuaPoddoku/global-cfps/issues/3) in [JoshuaPoddoku/global-cfps](https://github.com/JoshuaPoddoku/global-cfps)
+2. ❗️ Opened issue [#2](https://github.com/JoshuaPoddoku/global-cfps/issues/2) in [JoshuaPoddoku/global-cfps](https://github.com/JoshuaPoddoku/global-cfps)
+3. ❗️ Opened issue [#1](https://github.com/JoshuaPoddoku/global-cfps/issues/1) in [JoshuaPoddoku/global-cfps](https://github.com/JoshuaPoddoku/global-cfps)
+4. 🗣 Commented on [#213](https://github.com/apache/incubator-devlake-website/issues/213) in [apache/incubator-devlake-website](https://github.com/apache/incubator-devlake-website)
+5. ❗️ Closed issue [#200](https://github.com/apache/incubator-devlake-website/issues/200) in [apache/incubator-devlake-website](https://github.com/apache/incubator-devlake-website)
+6. ❗️ Opened issue [#200](https://github.com/apache/incubator-devlake-website/issues/200) in [apache/incubator-devlake-website](https://github.com/apache/incubator-devlake-website)
+7. 🗣 Commented on [#23](https://github.com/merico-dev/jde-program/issues/23) in [merico-dev/jde-program](https://github.com/merico-dev/jde-program)
+8. ❗️ Opened issue [#23](https://github.com/merico-dev/jde-program/issues/23) in [merico-dev/jde-program](https://github.com/merico-dev/jde-program)
+9. 🗣 Commented on [#3](https://github.com/merico-dev/jde-program/issues/3) in [merico-dev/jde-program](https://github.com/merico-dev/jde-program)
+10. 🎉 Merged PR [#22](https://github.com/merico-dev/jde-program/pull/22) in [merico-dev/jde-program](https://github.com/merico-dev/jde-program)
 <!--END_SECTION:activity-->
 
 ## Events and Travel Calendar
