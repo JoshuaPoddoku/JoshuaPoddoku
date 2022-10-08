@@ -41,16 +41,16 @@ Joshua is a Developer Evangelist at Merico where he leads open-source programs. 
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#226](https://github.com/apache/incubator-devlake-website/issues/226) in [apache/incubator-devlake-website](https://github.com/apache/incubator-devlake-website)
-2. ❗️ Opened issue [#88](https://github.com/devstream-io/website/issues/88) in [devstream-io/website](https://github.com/devstream-io/website)
-3. 🗣 Commented on [#38](https://github.com/apache/incubator-devlake-website/issues/38) in [apache/incubator-devlake-website](https://github.com/apache/incubator-devlake-website)
-4. 🗣 Commented on [#1144](https://github.com/devstream-io/devstream/issues/1144) in [devstream-io/devstream](https://github.com/devstream-io/devstream)
-5. 🗣 Commented on [#229](https://github.com/apache/incubator-devlake-website/issues/229) in [apache/incubator-devlake-website](https://github.com/apache/incubator-devlake-website)
-6. 💪 Opened PR [#229](https://github.com/apache/incubator-devlake-website/pull/229) in [apache/incubator-devlake-website](https://github.com/apache/incubator-devlake-website)
-7. ❌ Closed PR [#227](https://github.com/apache/incubator-devlake-website/pull/227) in [apache/incubator-devlake-website](https://github.com/apache/incubator-devlake-website)
-8. 💪 Opened PR [#227](https://github.com/apache/incubator-devlake-website/pull/227) in [apache/incubator-devlake-website](https://github.com/apache/incubator-devlake-website)
-9. ❗️ Opened issue [#4](https://github.com/JoshuaPoddoku/global-cfps/issues/4) in [JoshuaPoddoku/global-cfps](https://github.com/JoshuaPoddoku/global-cfps)
-10. ❗️ Opened issue [#3](https://github.com/JoshuaPoddoku/global-cfps/issues/3) in [JoshuaPoddoku/global-cfps](https://github.com/JoshuaPoddoku/global-cfps)
+1. 🗣 Commented on [#240](https://github.com/apache/incubator-devlake-website/issues/240) in [apache/incubator-devlake-website](https://github.com/apache/incubator-devlake-website)
+2. 🗣 Commented on [#226](https://github.com/apache/incubator-devlake-website/issues/226) in [apache/incubator-devlake-website](https://github.com/apache/incubator-devlake-website)
+3. ❗️ Opened issue [#88](https://github.com/devstream-io/website/issues/88) in [devstream-io/website](https://github.com/devstream-io/website)
+4. 🗣 Commented on [#38](https://github.com/apache/incubator-devlake-website/issues/38) in [apache/incubator-devlake-website](https://github.com/apache/incubator-devlake-website)
+5. 🗣 Commented on [#1144](https://github.com/devstream-io/devstream/issues/1144) in [devstream-io/devstream](https://github.com/devstream-io/devstream)
+6. 🗣 Commented on [#229](https://github.com/apache/incubator-devlake-website/issues/229) in [apache/incubator-devlake-website](https://github.com/apache/incubator-devlake-website)
+7. 💪 Opened PR [#229](https://github.com/apache/incubator-devlake-website/pull/229) in [apache/incubator-devlake-website](https://github.com/apache/incubator-devlake-website)
+8. ❌ Closed PR [#227](https://github.com/apache/incubator-devlake-website/pull/227) in [apache/incubator-devlake-website](https://github.com/apache/incubator-devlake-website)
+9. 💪 Opened PR [#227](https://github.com/apache/incubator-devlake-website/pull/227) in [apache/incubator-devlake-website](https://github.com/apache/incubator-devlake-website)
+10. ❗️ Opened issue [#4](https://github.com/JoshuaPoddoku/global-cfps/issues/4) in [JoshuaPoddoku/global-cfps](https://github.com/JoshuaPoddoku/global-cfps)
 <!--END_SECTION:activity-->
 
 ## Events and Travel Calendar
