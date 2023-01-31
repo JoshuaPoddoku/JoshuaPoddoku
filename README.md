@@ -41,16 +41,16 @@ Joshua is a Developer Evangelist at Merico where he leads open-source programs. 
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#405](https://github.com/apache/incubator-devlake-website/pull/405) in [apache/incubator-devlake-website](https://github.com/apache/incubator-devlake-website)
-2. 🗣 Commented on [#4055](https://github.com/apache/incubator-devlake/issues/4055) in [apache/incubator-devlake](https://github.com/apache/incubator-devlake)
-3. 🗣 Commented on [#404](https://github.com/apache/incubator-devlake-website/issues/404) in [apache/incubator-devlake-website](https://github.com/apache/incubator-devlake-website)
-4. ❗️ Opened issue [#404](https://github.com/apache/incubator-devlake-website/issues/404) in [apache/incubator-devlake-website](https://github.com/apache/incubator-devlake-website)
-5. 🗣 Commented on [#3960](https://github.com/apache/incubator-devlake/issues/3960) in [apache/incubator-devlake](https://github.com/apache/incubator-devlake)
-6. ❗️ Opened issue [#4055](https://github.com/apache/incubator-devlake/issues/4055) in [apache/incubator-devlake](https://github.com/apache/incubator-devlake)
-7. ❗️ Opened issue [#3960](https://github.com/apache/incubator-devlake/issues/3960) in [apache/incubator-devlake](https://github.com/apache/incubator-devlake)
-8. ❗️ Closed issue [#20](https://github.com/merico-dev/jde-program/issues/20) in [merico-dev/jde-program](https://github.com/merico-dev/jde-program)
-9. ❗️ Closed issue [#18](https://github.com/merico-dev/jde-program/issues/18) in [merico-dev/jde-program](https://github.com/merico-dev/jde-program)
-10. ❗️ Closed issue [#14](https://github.com/merico-dev/jde-program/issues/14) in [merico-dev/jde-program](https://github.com/merico-dev/jde-program)
+1. 🗣 Commented on [#4055](https://github.com/apache/incubator-devlake/issues/4055) in [apache/incubator-devlake](https://github.com/apache/incubator-devlake)
+2. 💪 Opened PR [#405](https://github.com/apache/incubator-devlake-website/pull/405) in [apache/incubator-devlake-website](https://github.com/apache/incubator-devlake-website)
+3. 🗣 Commented on [#4055](https://github.com/apache/incubator-devlake/issues/4055) in [apache/incubator-devlake](https://github.com/apache/incubator-devlake)
+4. 🗣 Commented on [#404](https://github.com/apache/incubator-devlake-website/issues/404) in [apache/incubator-devlake-website](https://github.com/apache/incubator-devlake-website)
+5. ❗️ Opened issue [#404](https://github.com/apache/incubator-devlake-website/issues/404) in [apache/incubator-devlake-website](https://github.com/apache/incubator-devlake-website)
+6. 🗣 Commented on [#3960](https://github.com/apache/incubator-devlake/issues/3960) in [apache/incubator-devlake](https://github.com/apache/incubator-devlake)
+7. ❗️ Opened issue [#4055](https://github.com/apache/incubator-devlake/issues/4055) in [apache/incubator-devlake](https://github.com/apache/incubator-devlake)
+8. ❗️ Opened issue [#3960](https://github.com/apache/incubator-devlake/issues/3960) in [apache/incubator-devlake](https://github.com/apache/incubator-devlake)
+9. ❗️ Closed issue [#20](https://github.com/merico-dev/jde-program/issues/20) in [merico-dev/jde-program](https://github.com/merico-dev/jde-program)
+10. ❗️ Closed issue [#18](https://github.com/merico-dev/jde-program/issues/18) in [merico-dev/jde-program](https://github.com/merico-dev/jde-program)
 <!--END_SECTION:activity-->
 
 ## Events and Travel Calendar
