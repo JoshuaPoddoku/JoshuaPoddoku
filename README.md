@@ -47,10 +47,10 @@ Joshua is a Developer Evangelist at Merico where he leads open-source programs. 
 4. 💪 Opened PR [#571](https://github.com/apache/incubator-devlake-website/pull/571) in [apache/incubator-devlake-website](https://github.com/apache/incubator-devlake-website)
 5. ❗ Opened issue [#570](https://github.com/apache/incubator-devlake-website/issues/570) in [apache/incubator-devlake-website](https://github.com/apache/incubator-devlake-website)
 6. 💪 Opened PR [#561](https://github.com/apache/incubator-devlake-website/pull/561) in [apache/incubator-devlake-website](https://github.com/apache/incubator-devlake-website)
-7. 🗣 Commented on [#525](https://github.com/apache/incubator-devlake-website/issues/525) in [apache/incubator-devlake-website](https://github.com/apache/incubator-devlake-website)
-8. 🗣 Commented on [#5212](https://github.com/apache/incubator-devlake/issues/5212) in [apache/incubator-devlake](https://github.com/apache/incubator-devlake)
-9. 🗣 Commented on [#4846](https://github.com/apache/incubator-devlake/issues/4846) in [apache/incubator-devlake](https://github.com/apache/incubator-devlake)
-10. 🗣 Commented on [#4827](https://github.com/apache/incubator-devlake/issues/4827) in [apache/incubator-devlake](https://github.com/apache/incubator-devlake)
+7. 🗣 Commented on [#525](https://github.com/apache/incubator-devlake-website/pull/525#issuecomment-1558067381) in [apache/incubator-devlake-website](https://github.com/apache/incubator-devlake-website)
+8. 🗣 Commented on [#5212](https://github.com/apache/incubator-devlake/issues/5212#issuecomment-1558065388) in [apache/incubator-devlake](https://github.com/apache/incubator-devlake)
+9. 🗣 Commented on [#4846](https://github.com/apache/incubator-devlake/issues/4846#issuecomment-1509482145) in [apache/incubator-devlake](https://github.com/apache/incubator-devlake)
+10. 🗣 Commented on [#4827](https://github.com/apache/incubator-devlake/issues/4827#issuecomment-1507634084) in [apache/incubator-devlake](https://github.com/apache/incubator-devlake)
 <!--END_SECTION:activity-->
 
 ## Events and Travel Calendar
