@@ -41,16 +41,16 @@ Joshua is a Developer Evangelist at Merico where he leads open-source programs. 
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#592](https://github.com/apache/incubator-devlake-website/pull/592#issuecomment-1650104758) in [apache/incubator-devlake-website](https://github.com/apache/incubator-devlake-website)
-2. 🗣 Commented on [#592](https://github.com/apache/incubator-devlake-website/pull/592#issuecomment-1648690440) in [apache/incubator-devlake-website](https://github.com/apache/incubator-devlake-website)
-3. 🗣 Commented on [#592](https://github.com/apache/incubator-devlake-website/pull/592#issuecomment-1648478037) in [apache/incubator-devlake-website](https://github.com/apache/incubator-devlake-website)
-4. ❗ Opened issue [#598](https://github.com/apache/incubator-devlake-website/issues/598) in [apache/incubator-devlake-website](https://github.com/apache/incubator-devlake-website)
-5. 🗣 Commented on [#588](https://github.com/apache/incubator-devlake-website/issues/588#issuecomment-1643308414) in [apache/incubator-devlake-website](https://github.com/apache/incubator-devlake-website)
-6. ❗ Opened issue [#593](https://github.com/apache/incubator-devlake-website/issues/593) in [apache/incubator-devlake-website](https://github.com/apache/incubator-devlake-website)
-7. 🗣 Commented on [#580](https://github.com/apache/incubator-devlake-website/issues/580#issuecomment-1642867467) in [apache/incubator-devlake-website](https://github.com/apache/incubator-devlake-website)
-8. 💪 Opened PR [#592](https://github.com/apache/incubator-devlake-website/pull/592) in [apache/incubator-devlake-website](https://github.com/apache/incubator-devlake-website)
-9. ❗ Opened issue [#588](https://github.com/apache/incubator-devlake-website/issues/588) in [apache/incubator-devlake-website](https://github.com/apache/incubator-devlake-website)
-10. ❗ Opened issue [#587](https://github.com/apache/incubator-devlake-website/issues/587) in [apache/incubator-devlake-website](https://github.com/apache/incubator-devlake-website)
+1. 🔒 Closed issue [#593](https://github.com/apache/incubator-devlake-website/issues/593) in [apache/incubator-devlake-website](https://github.com/apache/incubator-devlake-website)
+2. 🗣 Commented on [#592](https://github.com/apache/incubator-devlake-website/pull/592#issuecomment-1650104758) in [apache/incubator-devlake-website](https://github.com/apache/incubator-devlake-website)
+3. 🗣 Commented on [#592](https://github.com/apache/incubator-devlake-website/pull/592#issuecomment-1648690440) in [apache/incubator-devlake-website](https://github.com/apache/incubator-devlake-website)
+4. 🗣 Commented on [#592](https://github.com/apache/incubator-devlake-website/pull/592#issuecomment-1648478037) in [apache/incubator-devlake-website](https://github.com/apache/incubator-devlake-website)
+5. ❗ Opened issue [#598](https://github.com/apache/incubator-devlake-website/issues/598) in [apache/incubator-devlake-website](https://github.com/apache/incubator-devlake-website)
+6. 🗣 Commented on [#588](https://github.com/apache/incubator-devlake-website/issues/588#issuecomment-1643308414) in [apache/incubator-devlake-website](https://github.com/apache/incubator-devlake-website)
+7. ❗ Opened issue [#593](https://github.com/apache/incubator-devlake-website/issues/593) in [apache/incubator-devlake-website](https://github.com/apache/incubator-devlake-website)
+8. 🗣 Commented on [#580](https://github.com/apache/incubator-devlake-website/issues/580#issuecomment-1642867467) in [apache/incubator-devlake-website](https://github.com/apache/incubator-devlake-website)
+9. 💪 Opened PR [#592](https://github.com/apache/incubator-devlake-website/pull/592) in [apache/incubator-devlake-website](https://github.com/apache/incubator-devlake-website)
+10. ❗ Opened issue [#588](https://github.com/apache/incubator-devlake-website/issues/588) in [apache/incubator-devlake-website](https://github.com/apache/incubator-devlake-website)
 <!--END_SECTION:activity-->
 
 ## Events and Travel Calendar
