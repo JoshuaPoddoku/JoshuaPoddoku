@@ -41,9 +41,9 @@ Joshua is a Developer Evangelist at Merico where he leads open-source programs. 
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#690](https://github.com/apache/incubator-devlake-website/pull/690) in [apache/incubator-devlake-website](https://github.com/apache/incubator-devlake-website)
-2. ❗ Opened issue [#144](https://github.com/devchat-ai/devchat/issues/144) in [devchat-ai/devchat](https://github.com/devchat-ai/devchat)
-3. ❗ Opened issue [#650](https://github.com/apache/incubator-devlake-website/issues/650) in [apache/incubator-devlake-website](https://github.com/apache/incubator-devlake-website)
+1. ❗ Opened issue [#693](https://github.com/apache/incubator-devlake-website/issues/693) in [apache/incubator-devlake-website](https://github.com/apache/incubator-devlake-website)
+2. 💪 Opened PR [#690](https://github.com/apache/incubator-devlake-website/pull/690) in [apache/incubator-devlake-website](https://github.com/apache/incubator-devlake-website)
+3. ❗ Opened issue [#144](https://github.com/devchat-ai/devchat/issues/144) in [devchat-ai/devchat](https://github.com/devchat-ai/devchat)
 4. 💪 Opened PR [#641](https://github.com/apache/incubator-devlake-website/pull/641) in [apache/incubator-devlake-website](https://github.com/apache/incubator-devlake-website)
 5. 💪 Opened PR [#636](https://github.com/apache/incubator-devlake-website/pull/636) in [apache/incubator-devlake-website](https://github.com/apache/incubator-devlake-website)
 6. 💪 Opened PR [#5932](https://github.com/apache/incubator-devlake/pull/5932) in [apache/incubator-devlake](https://github.com/apache/incubator-devlake)
